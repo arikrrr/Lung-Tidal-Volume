@@ -1,4 +1,7 @@
 # README 
+
+Link to Google drive for dataset: https://docs.google.com/spreadsheets/d/1hn0x7FpM9vuJL6swja77SMIucJrqYq4J/edit?usp=drive_link&ouid=109861898265564938563&rtpof=true&sd=true
+
 ## Approaches to find the data set:
 ### 1
 The 700 sized dataset : It seems the weight column has become corrupted. For some data points the eight and height have simply been set to be equal and for other the weight is much too low. An 11 year old will not weigh 5.05 kg for instance. If you plot height vs weight you'll see immediately that apart form the line of data-points where height and weight coincides there seems to be no correlation which is highly suspect. link : https://www.kaggle.com/datasets/sulaimanahmed/lung-capacity-data/data <br/>
